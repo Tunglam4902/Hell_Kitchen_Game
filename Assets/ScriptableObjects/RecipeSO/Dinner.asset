@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5739e7666a726504294819d0df5c7b74, type: 3}
+  m_Name: Dinner
+  m_EditorClassIdentifier: 
+  recipeName: RoastedLegVegetable
+  requiredIngredients:
+  - {fileID: 11400000, guid: e72d2f95bf4cbba4cab1f12646247224, type: 2}
+  - {fileID: 11400000, guid: 3e0cc2633bfe48148bc4408cb967bfeb, type: 2}
+  - {fileID: 11400000, guid: 8f6f64f18ad687649ad002e0c13553f9, type: 2}
+  - {fileID: 11400000, guid: 33b3d4c0262fd29429d7606a29d07f5c, type: 2}

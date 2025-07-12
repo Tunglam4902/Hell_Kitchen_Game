@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab80d1471a1838c41a8d41d653ed9b03, type: 3}
+  m_Name: Potato-PotatoSlice
+  m_EditorClassIdentifier: 
+  input: {fileID: 11400000, guid: adf53d520e7d1354bbc57cb95c53501d, type: 2}
+  output: {fileID: 11400000, guid: e69a74e69f84448479ff4546c0a345e1, type: 2}
+  cuttingProgressMax: 3

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e3012a770494fa48b52576c01037236, type: 3}
+  m_Name: Ham-HamCooked
+  m_EditorClassIdentifier: 
+  input: {fileID: 11400000, guid: 177f1e7a1763a6548937c301fa2f571e, type: 2}
+  output: {fileID: 11400000, guid: e72d2f95bf4cbba4cab1f12646247224, type: 2}
+  cookingTimerMax: 5

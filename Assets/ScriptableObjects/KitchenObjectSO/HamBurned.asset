@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0504b03ccda35684485eda834d96ea8a, type: 3}
+  m_Name: HamBurned
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 8575812344766719812, guid: c631a65c6d694e24cb8866f629f9ff81, type: 3}
+  sprite: {fileID: -576724617, guid: 327f5b19a07abf44cb5b3fd8083b55da, type: 3}
+  objectName: HamBurned
